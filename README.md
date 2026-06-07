@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Slices target columns from CSV lines instantly in shell. [Variant 238 using WEB with Aurora theme]
+  name: bash-csv-v238 version: 1.0 type: Repository author: VarshuAi description: >   Slices target columns from CSV lines instantly in shell. [Variant 238 using WEB with Aurora theme] primary_tech: HTML
 primary_tech: HTML
 ```
 
